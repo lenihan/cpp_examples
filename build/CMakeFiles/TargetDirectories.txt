@@ -1,0 +1,6 @@
+C:/Users/david/repos/cpp_examples/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/david/repos/cpp_examples/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/david/repos/cpp_examples/build/cpp23/core/CMakeFiles/println_cpp23.dir
+C:/Users/david/repos/cpp_examples/build/cpp23/core/CMakeFiles/ALL_BUILD.dir
+C:/Users/david/repos/cpp_examples/build/cpp26/core/CMakeFiles/println_cpp26.dir
+C:/Users/david/repos/cpp_examples/build/cpp26/core/CMakeFiles/ALL_BUILD.dir
